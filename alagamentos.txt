@@ -1,0 +1,154 @@
+[
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:39",
+  "horariofim": "16:09",
+  "endereco": "AV. RIO BRANCO (REPUBLICA)",
+  "sentido": "BAIRRO/CENTRO - ÚNICA",
+  "referencia": "R GAL OSORIO / R AURORA"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:45",
+  "horariofim": "16:08",
+  "endereco": "AV. RIO BRANCO (REPUBLICA)",
+  "sentido": "BAIRRO/CENTRO - ÚNICA",
+  "referencia": "AV DUQ DE CAXIAS"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:08",
+  "horariofim": "16:00",
+  "endereco": "R. JEROAQUARA (LAPA)",
+  "sentido": "UNICO - ÚNICA",
+  "referencia": "R CORIOLANO / R FAUSTOLO"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:11",
+  "horariofim": "16:15",
+  "endereco": "R. GUAICURUS (LAPA)",
+  "sentido": "UNICO - ÚNICA",
+  "referencia": "PÇA MELVIN JONES"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:16",
+  "horariofim": "15:55",
+  "endereco": "AV. POMPEIA (BARRA FUNDA)",
+  "sentido": "AMBOS - ÚNICA",
+  "referencia": "R PALESTRA ITALIA / R VENANCIO AIRES"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:18",
+  "horariofim": "15:56",
+  "endereco": "AV. MARQ. DE. SAO VICENTE",
+  "sentido": "AMBOS",
+  "referencia": "PC. PASCOAL MARTINS"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:30",
+  "horariofim": "15:45",
+  "endereco": "AV. DAS. NACOES UNIDAS",
+  "sentido": "INTERLAGOS/CASTELO",
+  "referencia": "PTE. JAGUARE-HIRANT SANAZAR"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "16:11",
+  "horariofim": "17:51",
+  "endereco": "MARGINAL PINHEIROS CBINT (BUTANTA)",
+  "sentido": "CASTELO/INTERLAGOS - ÚNICA",
+  "referencia": "PTE JAGUARE-HIRANT SANAZAR"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:15",
+  "horariofim": "17:31",
+  "endereco": "AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS)",
+  "sentido": "INTERLAGOS/CASTELO - LOCAL",
+  "referencia": "AV PRES JUSCELINO KUBITSCHEK"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:17",
+  "horariofim": "17:29",
+  "endereco": "AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS)",
+  "sentido": "INTERLAGOS/CASTELO - LOCAL",
+  "referencia": "R OLIVIA FEDER"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:56",
+  "horariofim": "16:02",
+  "endereco": "AV. ARICANDUVA (ARICANDUVA)",
+  "sentido": "ITAQUERA/MARGINAL - EXPRESSA",
+  "referencia": "R BAQUIA"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:06",
+  "horariofim": "15:29",
+  "endereco": "AV. ARICANDUVA (ARICANDUVA)",
+  "sentido": "MARGINAL/ITAQUERA - AMBAS",
+  "referencia": "AV ITAQUERA"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:16",
+  "horariofim": "16:30",
+  "endereco": "R. MANILHA (CARRAO)",
+  "sentido": "AMBOS",
+  "referencia": "R GANGES"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:20",
+  "horariofim": "18:08",
+  "endereco": "AV. SALIM FARAH MALUF",
+  "sentido": "MARGINAL/V PRUDENTE - EXPRESSA",
+  "referencia": "R. DEMETRIO RIBEIRO"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "15:13",
+  "horariofim": "15:48",
+  "endereco": "AV. PROF LUIZ IGNACIO ANHAIA MELLO (SAO LUCAS)",
+  "sentido": "AMBOS - ÚNICA",
+  "referencia": "PC RUY ROXO"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:49",
+  "horariofim": "16:28",
+  "endereco": "AV. VINTE E TRES DE MAIO (LIBERDADE)",
+  "sentido": "AMBOS",
+  "referencia": "VD GAL EUCLIDES DE FIGUEIREDO"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "14:57",
+  "horariofim": "16:12",
+  "endereco": "R. SENA MADUREIRA (MOEMA)",
+  "sentido": "AMBOS - ÚNICA",
+  "referencia": "AV PROF ASCENDINO REIS"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "16:01",
+  "horariofim": "19:10",
+  "endereco": "AV. ANTONIO J. DE MOURA ANDRADE",
+  "sentido": "IBIRAPUERA/MARGINAL",
+  "referencia": "ALTURA DO NÚMERO 513"
+ },
+ {
+  "data": "06/04/2019",
+  "horarioinicio": "17:11",
+  "horariofim": "22:13",
+  "endereco": "CV. TRIBUNAL DE JUSTICA DO E. SP (ITAIM BIBI)",
+  "sentido": "IBIRAPUERA/MARGINAL",
+  "referencia": "ALTURA DO NÚMERO 0"
+ }
+]
