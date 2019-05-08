@@ -1,0 +1,72 @@
+[
+    {
+        "bairro": "sé",
+        "data": 20190429,
+        "geocode_address": "praça s. vito, sé, São Paulo - SP, Brazil",
+        "hora_fim": "04:47",
+        "hora_inicio": "04:38",
+        "latlgd": null,
+        "local": "avenida mercurio",
+        "referencia": "praça s. vito",
+        "sentido": "único"
+    },
+    {
+        "data": 20190430
+    },
+    {
+        "data": 20190501
+    },
+    {
+        "data": 20190502
+    },
+    {
+        "data": 20190503
+    },
+    {
+        "data": 20190504
+    },
+    {
+        "bairro": "casa verde",
+        "data": 20190505,
+        "geocode_address": "avenida antonio munhoz bonilha AND avenida nsra do o, São Paulo - SP, Brazil",
+        "hora_fim": "18:38",
+        "hora_inicio": "18:33",
+        "latlgd": null,
+        "local": "avenida antonio munhoz bonilha",
+        "referencia": "avenida nsra do o",
+        "sentido": "bairro/centro"
+    },
+    {
+        "bairro": "casa verde",
+        "data": 20190505,
+        "geocode_address": "ponte do limao-adhemar f. da silva, casa verde, São Paulo - SP, Brazil",
+        "hora_fim": "19:25",
+        "hora_inicio": "18:47",
+        "latlgd": null,
+        "local": "marginal tiete ascb expressa",
+        "referencia": "ponte do limao-adhemar f. da silva",
+        "sentido": "a senna/castelo b - expressa"
+    },
+    {
+        "bairro": "casa verde",
+        "data": 20190505,
+        "geocode_address": "ponte da. casa verde-jorn.walter abrahao, casa verde, São Paulo - SP, Brazil",
+        "hora_fim": "21:12",
+        "hora_inicio": "19:57",
+        "latlgd": null,
+        "local": "marginal tiete ascb central",
+        "referencia": "ponte da. casa verde-jorn.walter abrahao",
+        "sentido": "a senna/castelo b - central"
+    },
+    {
+        "bairro": "lapa",
+        "data": 20190505,
+        "geocode_address": "praça pascoal martins, lapa, São Paulo - SP, Brazil",
+        "hora_fim": "19:18",
+        "hora_inicio": "18:38",
+        "latlgd": null,
+        "local": "praça pascoal martins",
+        "referencia": "avenida marq de sao vicente",
+        "sentido": "bairro/centro"
+    }
+]
