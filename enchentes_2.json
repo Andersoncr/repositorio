@@ -1,0 +1,359 @@
+﻿[
+    {
+        "data": "20/04/2019"
+    },
+    {
+        "data": "21/04/2019"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "22/04/2019",
+        "geocode_address": "R. BR. DE. DUPRAT e AV. SEN. QUEIROS, São Paulo - SP, Brazil",
+        "hora_fim": "10:20",
+        "hora_inicio": "08:20",
+        "latlgd": null,
+        "local": "R. BR. DE. DUPRAT",
+        "referencia": "AV. SEN. QUEIROS",
+        "sentido": "UNICO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "23/04/2019",
+        "geocode_address": "AV. SEN. QUEIROS e R. BR. DE. DUPRAT, São Paulo - SP, Brazil",
+        "hora_fim": "18:16",
+        "hora_inicio": "18:03",
+        "latlgd": null,
+        "local": "AV. SEN. QUEIROS",
+        "referencia": "R. BR. DE. DUPRAT",
+        "sentido": "ÚNICO"
+    },
+    {
+        "data": "24/04/2019"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "25/04/2019",
+        "geocode_address": "R. BR. DE. DUPRAT e AV. SEN. QUEIROS, São Paulo - SP, Brazil",
+        "hora_fim": "07:40",
+        "hora_inicio": "07:27",
+        "latlgd": null,
+        "local": "R. BR. DE. DUPRAT",
+        "referencia": "AV. SEN. QUEIROS",
+        "sentido": "ÚNICO"
+    },
+    {
+        "bairro": "CASA VERDE",
+        "data": "26/04/2019",
+        "geocode_address": "MARGINAL TIETE e PTE DA CASA VERDE-JORN.WALTER ABRAHAO, São Paulo - SP, Brazil",
+        "hora_fim": "17:10",
+        "hora_inicio": "15:21",
+        "latlgd": null,
+        "local": "MARGINAL TIETE",
+        "referencia": "PTE DA CASA VERDE-JORN.WALTER ABRAHAO",
+        "sentido": "A SENNA/CASTELO B - EXP"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "VINTE E CINCO DE MARÇO e LADEIRA PORTO GERAL, São Paulo - SP, Brazil",
+        "hora_fim": "19:00",
+        "hora_inicio": "15:53",
+        "latlgd": null,
+        "local": "VINTE E CINCO DE MARÇO",
+        "referencia": "LADEIRA PORTO GERAL",
+        "sentido": "CENTRO/BAIRRO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "R. GLICÉRIO e R. S. PAULO, São Paulo - SP, Brazil",
+        "hora_fim": "16:52",
+        "hora_inicio": "16:01",
+        "latlgd": null,
+        "local": "R. GLICÉRIO",
+        "referencia": "R. S. PAULO",
+        "sentido": "ÚNICO - ÚNICA"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "R. S PAULO e R TEIXEIRA LEITE, São Paulo - SP, Brazil",
+        "hora_fim": "16:34",
+        "hora_inicio": "16:11",
+        "latlgd": null,
+        "local": "R. S PAULO",
+        "referencia": "R TEIXEIRA LEITE",
+        "sentido": "AMBOS"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "AV. MERCÚRIO e PRAÇA SÃO VITO, São Paulo - SP, Brazil",
+        "hora_fim": "19:00",
+        "hora_inicio": "16:15",
+        "latlgd": null,
+        "local": "AV. MERCÚRIO",
+        "referencia": "PRAÇA SÃO VITO",
+        "sentido": "BAIRRO/CENTRO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "R. DA CANTAREIRA e R COMEN AFONSO KHERLAKIAN, São Paulo - SP, Brazil",
+        "hora_fim": "19:20",
+        "hora_inicio": "16:27",
+        "latlgd": null,
+        "local": "R. DA CANTAREIRA",
+        "referencia": "R COMEN AFONSO KHERLAKIAN",
+        "sentido": "ÚNICO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "AV. RIO BRANCO e R GAL OSÓRIO, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:32",
+        "latlgd": null,
+        "local": "AV. RIO BRANCO",
+        "referencia": "R GAL OSÓRIO",
+        "sentido": "BAIRRO/CENTRO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "AV. MERCÚRIO e PC. S. VITO, São Paulo - SP, Brazil",
+        "hora_fim": "16:47",
+        "hora_inicio": "16:46",
+        "latlgd": null,
+        "local": "AV. MERCÚRIO",
+        "referencia": "PC. S. VITO",
+        "sentido": "ÚNICO"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "26/04/2019",
+        "geocode_address": "AV. MERCÚRIO e R. DA. CANTAREIRA, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:50",
+        "latlgd": null,
+        "local": "AV. MERCÚRIO",
+        "referencia": "R. DA. CANTAREIRA",
+        "sentido": "ÚNICO"
+    },
+    {
+        "bairro": "LAPA",
+        "data": "26/04/2019",
+        "geocode_address": "MARGINAL TIETE e PTE DO LIMAO-ADHEMAR F. DA SILVA, São Paulo - SP, Brazil",
+        "hora_fim": "15:59",
+        "hora_inicio": "15:34",
+        "latlgd": null,
+        "local": "MARGINAL TIETE",
+        "referencia": "PTE DO LIMAO-ADHEMAR F. DA SILVA",
+        "sentido": "CASTELO B/A SENNA - EXP"
+    },
+    {
+        "bairro": "MOOCA",
+        "data": "26/04/2019",
+        "geocode_address": "AV. ALCANTARA MACHADO, 200, MOOCA, São Paulo - SP, Brazil",
+        "hora_fim": "18:20",
+        "hora_inicio": "16:39",
+        "latlgd": null,
+        "local": "AV. ALCANTARA MACHADO",
+        "referencia": "200",
+        "sentido": "AMBOS"
+    },
+    {
+        "bairro": "MOOCA",
+        "data": "26/04/2019",
+        "geocode_address": "AV. CELSO GARCIA e R SALDANHA MARINHO, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:46",
+        "latlgd": null,
+        "local": "AV. CELSO GARCIA",
+        "referencia": "R SALDANHA MARINHO",
+        "sentido": "CENTRO/BAIRRO"
+    },
+    {
+        "bairro": "VILA MARIANA",
+        "data": "26/04/2019",
+        "geocode_address": "AV. VINTE E TRES DE MAIO e VD GAL EUCLIDES DE FIGUEIREDO, São Paulo - SP, Brazil",
+        "hora_fim": "16:55",
+        "hora_inicio": "16:25",
+        "latlgd": null,
+        "local": "AV. VINTE E TRES DE MAIO",
+        "referencia": "VD GAL EUCLIDES DE FIGUEIREDO",
+        "sentido": "SANTANA/AEROPORTO - AMBAS"
+    },
+    {
+        "bairro": "VILA MARIANA",
+        "data": "26/04/2019",
+        "geocode_address": "AV. VINTE E TRES DE MAIO e VD GAL EUCLIDES DE FIGUEIREDO, São Paulo - SP, Brazil",
+        "hora_fim": "16:57",
+        "hora_inicio": "16:32",
+        "latlgd": null,
+        "local": "AV. VINTE E TRES DE MAIO",
+        "referencia": "VD GAL EUCLIDES DE FIGUEIREDO",
+        "sentido": "AEROPORTO/SANTANA - AMBAS"
+    },
+    {
+        "data": "27/04/2019"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "28/04/2019",
+        "geocode_address": "TN ANHANGABAU e EMBOQUE SUL, São Paulo - SP, Brazil",
+        "hora_fim": "19:24",
+        "hora_inicio": "18:28",
+        "latlgd": null,
+        "local": "TN ANHANGABAU",
+        "referencia": "EMBOQUE SUL",
+        "sentido": "AER/ST"
+    },
+    {
+        "bairro": "LAPA",
+        "data": "28/04/2019",
+        "geocode_address": "R. MONTE PASCAL e AV. ERNESTO IGEL, São Paulo - SP, Brazil",
+        "hora_fim": "19:48",
+        "hora_inicio": "17:55",
+        "latlgd": null,
+        "local": "R. MONTE PASCAL",
+        "referencia": "AV. ERNESTO IGEL",
+        "sentido": "AMBOS"
+    },
+    {
+        "bairro": "PINHEIROS",
+        "data": "28/04/2019",
+        "geocode_address": "AV. DAS NACOES UNIDAS e R OLIVIA FEDER, São Paulo - SP, Brazil",
+        "hora_fim": "21:16",
+        "hora_inicio": "20:19",
+        "latlgd": null,
+        "local": "AV. DAS NACOES UNIDAS",
+        "referencia": "R OLIVIA FEDER",
+        "sentido": "INTERLAGOS/CASTELO - LOCAL"
+    },
+    {
+        "bairro": "SANTO AMARO",
+        "data": "28/04/2019",
+        "geocode_address": "AV. INTERLAGOS e AV YERVANT KISSAJIKIAN, São Paulo - SP, Brazil",
+        "hora_fim": "21:18",
+        "hora_inicio": "18:05",
+        "latlgd": null,
+        "local": "AV. INTERLAGOS",
+        "referencia": "AV YERVANT KISSAJIKIAN",
+        "sentido": "AMBOS"
+    },
+    {
+        "bairro": "SANTO AMARO",
+        "data": "28/04/2019",
+        "geocode_address": "AV. DAS NACOES UNIDAS e AV JOAO DIAS, São Paulo - SP, Brazil",
+        "hora_fim": "21:14",
+        "hora_inicio": "20:48",
+        "latlgd": null,
+        "local": "AV. DAS NACOES UNIDAS",
+        "referencia": "AV JOAO DIAS",
+        "sentido": "INTERLAGOS/CASTELO - LOCAL"
+    },
+    {
+        "bairro": "SÉ",
+        "data": "29/04/2019",
+        "geocode_address": "AV. MERCURIO e PC. S. VITO, São Paulo - SP, Brazil",
+        "hora_fim": "04:47",
+        "hora_inicio": "04:38",
+        "latlgd": null,
+        "local": "AV. MERCURIO",
+        "referencia": "PC. S. VITO",
+        "sentido": "ÚNICO"
+    },
+    {
+        "data": "30/04/2019"
+    },
+    {
+        "data": "01/05/2019"
+    },
+    {
+        "data": "02/05/2019"
+    },
+    {
+        "data": "03/05/2019"
+    },
+    {
+        "data": "04/05/2019"
+    },
+    {
+        "bairro": "CASA VERDE",
+        "data": "05/05/2019",
+        "geocode_address": "AV. ANTONIO MUNHOZ BONILHA e AV NSRA DO O, São Paulo - SP, Brazil",
+        "hora_fim": "18:38",
+        "hora_inicio": "18:33",
+        "latlgd": null,
+        "local": "AV. ANTONIO MUNHOZ BONILHA",
+        "referencia": "AV NSRA DO O",
+        "sentido": "BAIRRO/CENTRO"
+    },
+    {
+        "bairro": "CASA VERDE",
+        "data": "05/05/2019",
+        "geocode_address": "MARGINAL TIETE ASCB EXPRESSA e PTE DO LIMAO-ADHEMAR F. DA SILVA, São Paulo - SP, Brazil",
+        "hora_fim": "19:25",
+        "hora_inicio": "18:47",
+        "latlgd": null,
+        "local": "MARGINAL TIETE ASCB EXPRESSA",
+        "referencia": "PTE DO LIMAO-ADHEMAR F. DA SILVA",
+        "sentido": "A SENNA/CASTELO B - EXPRESSA"
+    },
+    {
+        "bairro": "CASA VERDE",
+        "data": "05/05/2019",
+        "geocode_address": "MARGINAL TIETE ASCB CENTRAL e PTE. DA. CASA VERDE-JORN.WALTER ABRAHAO, São Paulo - SP, Brazil",
+        "hora_fim": "21:12",
+        "hora_inicio": "19:57",
+        "latlgd": null,
+        "local": "MARGINAL TIETE ASCB CENTRAL",
+        "referencia": "PTE. DA. CASA VERDE-JORN.WALTER ABRAHAO",
+        "sentido": "A SENNA/CASTELO B - CENTRAL"
+    },
+    {
+        "bairro": "LAPA",
+        "data": "05/05/2019",
+        "geocode_address": "PC. PASCOAL MARTINS e AV MARQ DE SAO VICENTE, São Paulo - SP, Brazil",
+        "hora_fim": "19:18",
+        "hora_inicio": "18:38",
+        "latlgd": null,
+        "local": "PC. PASCOAL MARTINS",
+        "referencia": "AV MARQ DE SAO VICENTE",
+        "sentido": "BAIRRO/CENTRO"
+    },
+    {
+        "data": "06/05/2019"
+    },
+    {
+        "data": "07/05/2019"
+    },
+    {
+        "data": "08/05/2019"
+    },
+    {
+        "data": "09/05/2019"
+    },
+    {
+        "data": "10/05/2019"
+    },
+    {
+        "data": "11/05/2019"
+    },
+    {
+        "data": "12/05/2019"
+    },
+    {
+        "data": "13/05/2019"
+    },
+    {
+        "data": "14/05/2019"
+    },
+    {
+        "data": "15/05/2019"
+    },
+    {
+        "data": "16/05/2019"
+    }
+]
