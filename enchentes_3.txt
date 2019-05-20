@@ -1,0 +1,413 @@
+﻿[
+    {
+        "data": "20/04/2019"
+    },
+    {
+        "data": "21/04/2019"
+    },
+    {
+        "bairro": "sé",
+        "data": "22/04/2019",
+        "endereco": "avenida senador queiros, sé, São Paulo - SP, Brazil",
+        "geocode_address": "rua barão de duprat e avenida senador queiros, São Paulo - SP, Brazil",
+        "hora_fim": "10:20",
+        "hora_inicio": "08:20",
+        "latitude": -23.5394623,
+        "local": "rua barão de duprat",
+        "longitude": -46.6320717,
+        "referencia": "avenida senador queiros",
+        "sentido": "unico"
+    },
+    {
+        "bairro": "sé",
+        "data": "23/04/2019",
+        "endereco": "rua barão de duprat, sé, São Paulo - SP, Brazil",
+        "geocode_address": "avenida senador queiros e rua barão de duprat, São Paulo - SP, Brazil",
+        "hora_fim": "18:16",
+        "hora_inicio": "18:03",
+        "latitude": -23.542627,
+        "local": "avenida senador queiros",
+        "longitude": -46.6309096,
+        "referencia": "rua barão de duprat",
+        "sentido": "único"
+    },
+    {
+        "data": "24/04/2019"
+    },
+    {
+        "bairro": "sé",
+        "data": "25/04/2019",
+        "endereco": "avenida senador queiros, sé, São Paulo - SP, Brazil",
+        "geocode_address": "rua barão de duprat e avenida senador queiros, São Paulo - SP, Brazil",
+        "hora_fim": "07:40",
+        "hora_inicio": "07:27",
+        "latitude": -23.5394623,
+        "local": "rua barão de duprat",
+        "longitude": -46.6320717,
+        "referencia": "avenida senador queiros",
+        "sentido": "único"
+    },
+    {
+        "bairro": "casa verde",
+        "data": "26/04/2019",
+        "endereco": "ponte da casa verde jornalista walter abrahao, casa verde, São Paulo - SP, Brazil",
+        "geocode_address": "ponte da casa verde jornalista walter abrahao, casa verde, São Paulo - SP, Brazil",
+        "hora_fim": "17:10",
+        "hora_inicio": "15:21",
+        "latitude": null,
+        "local": "marginal tiete",
+        "longitude": null,
+        "referencia": "ponte da casa verde jornalista walter abrahao",
+        "sentido": "a senna/castelo b - exp"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "ladeira porto geral, sé, São Paulo - SP, Brazil",
+        "geocode_address": "vinte e cinco de março e ladeira porto geral, São Paulo - SP, Brazil",
+        "hora_fim": "19:00",
+        "hora_inicio": "15:53",
+        "latitude": -23.5451482,
+        "local": "vinte e cinco de março",
+        "longitude": -46.6336466,
+        "referencia": "ladeira porto geral",
+        "sentido": "centro/bairro"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "rua são paulo, sé, São Paulo - SP, Brazil",
+        "geocode_address": "rua glicério e rua são paulo, São Paulo - SP, Brazil",
+        "hora_fim": "16:52",
+        "hora_inicio": "16:01",
+        "latitude": -23.5570396,
+        "local": "rua glicério",
+        "longitude": -46.6331159,
+        "referencia": "rua são paulo",
+        "sentido": "único - única"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "rua teixeira leite, sé, São Paulo - SP, Brazil",
+        "geocode_address": "rua são paulo e rua teixeira leite, São Paulo - SP, Brazil",
+        "hora_fim": "16:34",
+        "hora_inicio": "16:11",
+        "latitude": -23.5549096,
+        "local": "rua são paulo",
+        "longitude": -46.627493,
+        "referencia": "rua teixeira leite",
+        "sentido": "ambos"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "praça são vito, sé, São Paulo - SP, Brazil",
+        "geocode_address": "praça são vito, sé, São Paulo - SP, Brazil",
+        "hora_fim": "19:00",
+        "hora_inicio": "16:15",
+        "latitude": -23.5428764,
+        "local": "avenida mercúrio",
+        "longitude": -46.627666,
+        "referencia": "praça são vito",
+        "sentido": "bairro/centro"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "rua comendador afonso kherlakian, sé, São Paulo - SP, Brazil",
+        "geocode_address": "rua da cantareira e rua comendador afonso kherlakian, São Paulo - SP, Brazil",
+        "hora_fim": "19:20",
+        "hora_inicio": "16:27",
+        "latitude": -23.5419849,
+        "local": "rua da cantareira",
+        "longitude": -46.6322158,
+        "referencia": "rua comendador afonso kherlakian",
+        "sentido": "único"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "rua general osório, sé, São Paulo - SP, Brazil",
+        "geocode_address": "avenida rio branco e rua general osório, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:32",
+        "latitude": -23.291272,
+        "local": "avenida rio branco",
+        "longitude": -46.7507855,
+        "referencia": "rua general osório",
+        "sentido": "bairro/centro"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "praça são vito, sé, São Paulo - SP, Brazil",
+        "geocode_address": "praça são vito, sé, São Paulo - SP, Brazil",
+        "hora_fim": "16:47",
+        "hora_inicio": "16:46",
+        "latitude": -23.5428764,
+        "local": "avenida mercúrio",
+        "longitude": -46.627666,
+        "referencia": "praça são vito",
+        "sentido": "único"
+    },
+    {
+        "bairro": "sé",
+        "data": "26/04/2019",
+        "endereco": "rua da cantareira, sé, São Paulo - SP, Brazil",
+        "geocode_address": "avenida mercúrio e rua da cantareira, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:50",
+        "latitude": -23.5420177,
+        "local": "avenida mercúrio",
+        "longitude": -46.6301654,
+        "referencia": "rua da cantareira",
+        "sentido": "único"
+    },
+    {
+        "bairro": "lapa",
+        "data": "26/04/2019",
+        "endereco": "ponte do limão, lapa, São Paulo - SP, Brazil",
+        "geocode_address": "marginal tiete e ponte do limão, São Paulo - SP, Brazil",
+        "hora_fim": "15:59",
+        "hora_inicio": "15:34",
+        "latitude": null,
+        "local": "marginal tiete",
+        "longitude": null,
+        "referencia": "ponte do limão",
+        "sentido": "castelo b/a senna - exp"
+    },
+    {
+        "bairro": "mooca",
+        "data": "26/04/2019",
+        "endereco": "avenida alcantara machado, mooca, São Paulo - SP, Brazil",
+        "geocode_address": "avenida alcantara machado, 200, mooca, São Paulo - SP, Brazil",
+        "hora_fim": "18:20",
+        "hora_inicio": "16:39",
+        "latitude": -23.5456835,
+        "local": "avenida alcantara machado",
+        "longitude": -46.5981882,
+        "referencia": "200",
+        "sentido": "ambos"
+    },
+    {
+        "bairro": "mooca",
+        "data": "26/04/2019",
+        "endereco": "rua saldanha marinho, mooca, São Paulo - SP, Brazil",
+        "geocode_address": "avenida celso garcia e rua saldanha marinho, São Paulo - SP, Brazil",
+        "hora_fim": "17:25",
+        "hora_inicio": "16:46",
+        "latitude": null,
+        "local": "avenida celso garcia",
+        "longitude": null,
+        "referencia": "rua saldanha marinho",
+        "sentido": "centro/bairro"
+    },
+    {
+        "bairro": "vila mariana",
+        "data": "26/04/2019",
+        "endereco": "viaduto general euclides de figueiredo, vila mariana, São Paulo - SP, Brazil",
+        "geocode_address": "viaduto general euclides de figueiredo, vila mariana, São Paulo - SP, Brazil",
+        "hora_fim": "16:55",
+        "hora_inicio": "16:25",
+        "latitude": null,
+        "local": "avenida vinte e tres de maio",
+        "longitude": null,
+        "referencia": "viaduto general euclides de figueiredo",
+        "sentido": "santana/aeroporto - ambas"
+    },
+    {
+        "bairro": "vila mariana",
+        "data": "26/04/2019",
+        "endereco": "viaduto general euclides de figueiredo, vila mariana, São Paulo - SP, Brazil",
+        "geocode_address": "viaduto general euclides de figueiredo, vila mariana, São Paulo - SP, Brazil",
+        "hora_fim": "16:57",
+        "hora_inicio": "16:32",
+        "latitude": null,
+        "local": "avenida vinte e tres de maio",
+        "longitude": null,
+        "referencia": "viaduto general euclides de figueiredo",
+        "sentido": "aeroporto/santana - ambas"
+    },
+    {
+        "data": "27/04/2019"
+    },
+    {
+        "bairro": "sé",
+        "data": "28/04/2019",
+        "endereco": "emboque sul, sé, São Paulo - SP, Brazil",
+        "geocode_address": "túnel anhangabau e emboque sul, São Paulo - SP, Brazil",
+        "hora_fim": "19:24",
+        "hora_inicio": "18:28",
+        "latitude": null,
+        "local": "túnel anhangabau",
+        "longitude": null,
+        "referencia": "emboque sul",
+        "sentido": "aer/st"
+    },
+    {
+        "bairro": "lapa",
+        "data": "28/04/2019",
+        "endereco": "avenida ernesto igel, lapa, São Paulo - SP, Brazil",
+        "geocode_address": "rua monte pascal e avenida ernesto igel, São Paulo - SP, Brazil",
+        "hora_fim": "19:48",
+        "hora_inicio": "17:55",
+        "latitude": null,
+        "local": "rua monte pascal",
+        "longitude": null,
+        "referencia": "avenida ernesto igel",
+        "sentido": "ambos"
+    },
+    {
+        "bairro": "pinheiros",
+        "data": "28/04/2019",
+        "endereco": "rua olívia feder, pinheiros, São Paulo - SP, Brazil",
+        "geocode_address": "avenida das nações unidas e rua olívia feder, São Paulo - SP, Brazil",
+        "hora_fim": "21:16",
+        "hora_inicio": "20:19",
+        "latitude": null,
+        "local": "avenida das nações unidas",
+        "longitude": null,
+        "referencia": "rua olívia feder",
+        "sentido": "interlagos/castelo - local"
+    },
+    {
+        "bairro": "santo amaro",
+        "data": "28/04/2019",
+        "endereco": "avenida yervant kissajikian, santo amaro, São Paulo - SP, Brazil",
+        "geocode_address": "avenida interlagos e avenida yervant kissajikian, São Paulo - SP, Brazil",
+        "hora_fim": "21:18",
+        "hora_inicio": "18:05",
+        "latitude": null,
+        "local": "avenida interlagos",
+        "longitude": null,
+        "referencia": "avenida yervant kissajikian",
+        "sentido": "ambos"
+    },
+    {
+        "bairro": "santo amaro",
+        "data": "28/04/2019",
+        "endereco": "avenida joao dias, santo amaro, São Paulo - SP, Brazil",
+        "geocode_address": "avenida das nações unidas e avenida joao dias, São Paulo - SP, Brazil",
+        "hora_fim": "21:14",
+        "hora_inicio": "20:48",
+        "latitude": -23.6449402,
+        "local": "avenida das nações unidas",
+        "longitude": -46.7174686,
+        "referencia": "avenida joao dias",
+        "sentido": "interlagos/castelo - local"
+    },
+    {
+        "bairro": "sé",
+        "data": "29/04/2019",
+        "endereco": "praça são vito, sé, São Paulo - SP, Brazil",
+        "geocode_address": "praça são vito, sé, São Paulo - SP, Brazil",
+        "hora_fim": "04:47",
+        "hora_inicio": "04:38",
+        "latitude": -23.5428764,
+        "local": "avenida mercurio",
+        "longitude": -46.627666,
+        "referencia": "praça são vito",
+        "sentido": "único"
+    },
+    {
+        "data": "30/04/2019"
+    },
+    {
+        "data": "01/05/2019"
+    },
+    {
+        "data": "02/05/2019"
+    },
+    {
+        "data": "03/05/2019"
+    },
+    {
+        "data": "04/05/2019"
+    },
+    {
+        "bairro": "casa verde",
+        "data": "05/05/2019",
+        "endereco": "avenida nossa senhora do ó, casa verde, São Paulo - SP, Brazil",
+        "geocode_address": "avenida antonio munhoz bonilha e avenida nossa senhora do ó, São Paulo - SP, Brazil",
+        "hora_fim": "18:38",
+        "hora_inicio": "18:33",
+        "latitude": null,
+        "local": "avenida antonio munhoz bonilha",
+        "longitude": null,
+        "referencia": "avenida nossa senhora do ó",
+        "sentido": "bairro/centro"
+    },
+    {
+        "bairro": "casa verde",
+        "data": "05/05/2019",
+        "endereco": "ponte do limão, casa verde, São Paulo - SP, Brazil",
+        "geocode_address": "marginal tiete ascb expressa e ponte do limão, São Paulo - SP, Brazil",
+        "hora_fim": "19:25",
+        "hora_inicio": "18:47",
+        "latitude": -23.5139927,
+        "local": "marginal tiete ascb expressa",
+        "longitude": -46.6665302,
+        "referencia": "ponte do limão",
+        "sentido": "a senna/castelo b - expressa"
+    },
+    {
+        "bairro": "casa verde",
+        "data": "05/05/2019",
+        "endereco": "ponte da casa verde jornalista walter abrahao, casa verde, São Paulo - SP, Brazil",
+        "geocode_address": "ponte da casa verde jornalista walter abrahao, casa verde, São Paulo - SP, Brazil",
+        "hora_fim": "21:12",
+        "hora_inicio": "19:57",
+        "latitude": null,
+        "local": "marginal tiete ascb central",
+        "longitude": null,
+        "referencia": "ponte da casa verde jornalista walter abrahao",
+        "sentido": "a senna/castelo b - central"
+    },
+    {
+        "bairro": "lapa",
+        "data": "05/05/2019",
+        "endereco": "avenida marq de sao vicente, lapa, São Paulo - SP, Brazil",
+        "geocode_address": "praça pascoal martins, lapa, São Paulo - SP, Brazil",
+        "hora_fim": "19:18",
+        "hora_inicio": "18:38",
+        "latitude": null,
+        "local": "praça pascoal martins",
+        "longitude": null,
+        "referencia": "avenida marq de sao vicente",
+        "sentido": "bairro/centro"
+    },
+    {
+        "data": "06/05/2019"
+    },
+    {
+        "data": "07/05/2019"
+    },
+    {
+        "data": "08/05/2019"
+    },
+    {
+        "data": "09/05/2019"
+    },
+    {
+        "data": "10/05/2019"
+    },
+    {
+        "data": "11/05/2019"
+    },
+    {
+        "data": "12/05/2019"
+    },
+    {
+        "data": "13/05/2019"
+    },
+    {
+        "data": "14/05/2019"
+    },
+    {
+        "data": "15/05/2019"
+    },
+    {
+        "data": "16/05/2019"
+    }
+]
